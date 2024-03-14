@@ -1,0 +1,92 @@
+{
+  "allvideoes": [
+    {
+      "Caption": "Manjummel Boys",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "Image": "https://i.ytimg.com/vi/id848Ww1YLo/hqdefault.jpg",
+      "id": 17
+    },
+    {
+      "Caption": "Premalu",
+      "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "Image": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/2024/02/09/250857-premalu-1.jpg",
+      "id": 18
+    },
+    {
+      "Caption": "Bramayugam",
+      "url": "https://www.youtube.com/embed/H66pS8KSE24?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "Image": "https://i.ytimg.com/vi/H66pS8KSE24/maxresdefault.jpg",
+      "id": 19
+    }
+  ],
+  "categories": [
+    {
+      "name": "Movies",
+      "video": [
+        {
+          "Caption": "Premalu",
+          "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=DAqnnSZS7PNdugKB&autoplay=1",
+          "Image": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/2024/02/09/250857-premalu-1.jpg",
+          "id": 18
+        },
+        {
+          "Caption": "Manjummel Boys",
+          "url": "https://www.youtube.com/embed/id848Ww1YLo?si=DAqnnSZS7PNdugKB&autoplay=1",
+          "Image": "https://i.ytimg.com/vi/id848Ww1YLo/hqdefault.jpg",
+          "id": 17
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Trailers",
+      "video": [
+        {
+          "Caption": "Bramayugam",
+          "url": "https://www.youtube.com/embed/H66pS8KSE24?si=DAqnnSZS7PNdugKB&autoplay=1",
+          "Image": "https://i.ytimg.com/vi/H66pS8KSE24/maxresdefault.jpg",
+          "id": 19
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "Caption": "Manjummel Boys",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "datetime": "2024-03-11T06:16:29.176Z",
+      "id": 2
+    },
+    {
+      "Caption": "Manjummel Boys",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "datetime": "2024-03-11T06:28:10.425Z",
+      "id": 3
+    },
+    {
+      "Caption": "Manjummel Boys",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "datetime": "2024-03-13T05:32:32.859Z",
+      "id": 4
+    },
+    {
+      "Caption": "Premalu",
+      "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "datetime": "2024-03-13T05:32:42.623Z",
+      "id": 5
+    },
+    {
+      "Caption": "Manjummel Boys",
+      "url": "https://www.youtube.com/embed/id848Ww1YLo?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "datetime": "2024-03-13T14:25:26.007Z",
+      "id": 6
+    },
+    {
+      "Caption": "Bramayugam",
+      "url": "https://www.youtube.com/embed/H66pS8KSE24?si=DAqnnSZS7PNdugKB&autoplay=1",
+      "datetime": "2024-03-13T14:27:56.919Z",
+      "id": 7
+    }
+  ]
+}
